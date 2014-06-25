@@ -24,38 +24,7 @@ namespace AlbumWebApiProject.Models
 
         public Album() { }
 
-        ///// <summary>
-        ///// Add new songs to the songList.
-        ///// </summary>
-        ///// <param name="songList"></param>
-        ///// <returns></returns>
-        //public List<Song> AddSong(List<Song> songList)
-        //{
-        //    //this.SongList.Add(new Song()
-        //    //{
-        //    //    songTitle = songName,
-        //    //    length = songLength
-        //    //});
-
-        //    return songList;
-        //}
-
-        ///// <summary>
-        ///// Update songs to the songList.
-        ///// </summary>
-        ///// <param name="songList"></param>
-        ///// <returns></returns>
-        //public List<Song> UpdateSong(List<Song> songList)
-        //{
-        //    //this.SongList.Add(new Song()
-        //    //{
-        //    //    songTitle = songName,
-        //    //    length = songLength
-        //    //});
-
-        //    return songList;
-        //}
-
+        
         /// <summary>
         /// Retrieve the song list in the album.
         /// </summary>
